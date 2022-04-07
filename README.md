@@ -1,4 +1,4 @@
-# 17.Wild-Video-Player
+# 17.Awesome-Video-Player
 
 AWESOME VIDEO PLAYER.
 
